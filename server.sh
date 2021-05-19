@@ -1,4 +1,3 @@
-#!/usr/bin/bash
 
 printf "\n\n"
 echo -e "\e[30;48;5;82mPLEASE WAIT SCRITI IS RUNNING........!It will take some time depending on the domains provided by you.\e[0m"
